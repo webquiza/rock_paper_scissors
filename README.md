@@ -1,6 +1,8 @@
 # _Rock Paper Scissors_
 
-#### _{Brief description of application}_
+#### _Allows user to play Rock Paper Scissors against their computer._
+
+#### _View the full build process here: [Dev Ed: YouTube](https://www.youtube.com/watch?v=qWPtKtYEsN4)._
 
 #### By _**Carlos Urquiza**_
 
@@ -11,13 +13,9 @@
 * _JavaScript_
 * _Git_
 
-## Description
-
-_{ }_
-
 ## Setup/Installation Requirements
 
-* _{}_
+* _No setup or installation required. See live site [here]().
 
 ## Known Bugs
 
