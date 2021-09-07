@@ -15,7 +15,7 @@
 
 ## Setup/Installation Requirements
 
-* _No setup or installation required. See live site [here]().
+* _No setup or installation required. See live site [here]()._
 
 ## Known Bugs
 
