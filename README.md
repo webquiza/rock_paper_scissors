@@ -15,7 +15,7 @@
 
 ## Setup/Installation Requirements
 
-* _No setup or installation required. See live site [here]()._
+* _No setup or installation required. See live site [here](https://webquiza.github.io/rock_paper_scissors/)._
 
 ## Known Bugs
 
